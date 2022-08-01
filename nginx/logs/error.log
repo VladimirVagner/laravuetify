@@ -1,0 +1,12 @@
+2022/08/01 10:52:29 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:52:35 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:52:40 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:52:46 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:52:52 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:52:59 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:53:08 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:53:20 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:53:38 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:54:09 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:55:06 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
+2022/08/01 10:56:11 [emerg] 1#1: host not found in "${VIRTUAL_PORT}" of the "listen" directive in /etc/nginx/conf.d/project.conf:2
